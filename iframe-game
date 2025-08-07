@@ -12,6 +12,6 @@
 </head>
 <body>
   <!-- replace the src below with your game’s iframe URL -->
-  <iframe src="https://example.com/path/to/game" allowfullscreen></iframe>
+  <iframe src="https://fallguys.onl/justfall-lol.embed" allowfullscreen></iframe>
 </body>
 </html>
